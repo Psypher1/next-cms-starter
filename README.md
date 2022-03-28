@@ -7,3 +7,7 @@ It lays out the general structure I want to work with
 ### Instructions
 
 - After cloning or downloading run `npm install` or `yarn add`
+
+## Note
+
+This starter is now styled with Tailwind
